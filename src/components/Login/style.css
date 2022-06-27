@@ -1,0 +1,8 @@
+.input-password input{
+    width:250px;
+    border-radius: 0.5rem;
+    padding:0.5rem;
+    display:flex;
+    color:black
+
+}

@@ -1,0 +1,14 @@
+.paginate {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    gap: 10px;
+}
+
+.paginate a {
+    border-radius: 5px;
+    font: 20pt;
+}
